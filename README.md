@@ -44,5 +44,5 @@ Each model was trained on 70% of the data and tested on the remaining 30%.
   - `age`, `sex`, `chest pain type`, `cholesterol`, `thalach`, `restecg`, `fbs`, `exang`, `ca`, etc.
   - `target`: 1 = disease present, 0 = not present
 
-Place the CSV in a folder called `/dataset` like this:
+
 
